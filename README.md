@@ -92,4 +92,5 @@ Stream instructions to the interface in real-time.
 Mobile-friendly scanning via phone camera.
 
 🎉 Summary
+
 This project is an interactive Rubik’s Cube experience, combining computer vision, cube-solving logic, and live AR visualization. Just show your cube, follow the steps, and solve it like a pro!
