@@ -1,4 +1,5 @@
 🧩 Rubik’s Cube Solver
+
 Welcome to the Rubik’s Cube Solver! This project lets you scan your physical Rubik’s Cube using your webcam, compute the solution, and see step-by-step moves in augmented reality. It’s like having a virtual cube master guiding you live!
 
 🎯 What It Does
@@ -13,6 +14,7 @@ Visualize: Displays arrows and move instructions directly on the live video feed
 All you have to do is show your cube to the camera, press a button, and follow along.
 
 🚀 How It Works
+
 Here’s the interactive flow:
 
 Open the interface
@@ -45,6 +47,7 @@ Press ‘q’ to quit the overlay.
 Now you can follow the moves on your cube as if a virtual cube master is guiding you live!
 
 🖥️ Interactive Features
+
 Guided scanning: Captures faces only when you’re ready.
 
 Live AR overlay: Moves appear directly on the video feed.
@@ -54,6 +57,7 @@ Step-by-step instructions: Control the pace with keyboard commands.
 Immediate feedback: Shows which face to scan next and confirms capture.
 
 🛠️ Technologies Used
+
 Python: Computer vision and AR overlay
 
 OpenCV: Webcam capture and drawing arrows on video
