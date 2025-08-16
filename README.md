@@ -1,4 +1,4 @@
-<h1 align="center">🧩 ViziCube – Rubik’s Cube Solver</h1>
+<h1 align="center">🧩 ViziCube – Vision + Cube</h1>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python"></a>
