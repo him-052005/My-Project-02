@@ -112,18 +112,16 @@
 <h2>🎉 Demo / Screenshots</h2>
 
 <p align="center">
-  <!-- Image Example -->
-  <img src="server.js running.png" alt="server.js running" width="400">
+  <img src="demo/server-js-running.png" alt="server.js running" width="400">
 </p>
 
 <p align="center">
-  <!-- Video Example -->
   <video width="600" controls>
-    <source src="live server running.mp4" type="video/mp4">
+    <source src="demo/live-server-running.mp4" type="video/mp4">
   </video>
 </p>
 
 <p align="center">
-  <!-- Image Example -->
-  <img src="suggesting moves.png" alt="suggesting moves" width="400">
+  <img src="demo/suggesting-moves.png" alt="suggesting moves" width="400">
 </p>
+
