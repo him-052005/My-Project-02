@@ -112,16 +112,22 @@
 <h2>🎬 Demo / Screenshots</h2>
 
 <figure align="center">
-  <figcaption>🟢 server.js running</figcaption>
+  <figcaption>🟢 server.js running:</figcaption>
+  <br>
+  <br>
   <img src="demo/server-js-running.png" alt="server.js running" width="400">
 </figure>
 
 <figure align="center">
-  <figcaption>🎥 live server running</figcaption>
+  <figcaption>🎥 Live server running:</figcaption>
+  <br>
+  <br>
   <img src="demo/live-server-running.gif" alt="live server running" width="600">
 </figure>
 
 <figure align="center">
-  <figcaption>➡️ suggesting moves</figcaption>
+  <figcaption>➡️ Suggesting moves:</figcaption>
+  <br>
+  <br>
   <img src="demo/suggesting-moves.png" alt="suggesting moves" width="400">
 </figure>
