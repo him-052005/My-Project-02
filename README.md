@@ -109,21 +109,19 @@
   <li>Mobile-friendly scanning via phone camera 📱</li>
 </ul>
 
-<h2>🎉 Demo / Screenshots</h2>
+<h2>🎬 Demo / Screenshots</h2>
 
 <figure align="center">
+  <figcaption>🟢 server.js running</figcaption>
   <img src="demo/server-js-running.png" alt="server.js running" width="400">
-  <figcaption>server.js running</figcaption>
 </figure>
 
 <figure align="center">
+  <figcaption>🎥 live server running</figcaption>
   <img src="demo/live-server-running.gif" alt="live server running" width="600">
-  <figcaption>live server running</figcaption>
 </figure>
 
 <figure align="center">
+  <figcaption>➡️ suggesting moves</figcaption>
   <img src="demo/suggesting-moves.png" alt="suggesting moves" width="400">
-  <figcaption>suggesting moves</figcaption>
 </figure>
-
-
