@@ -111,17 +111,19 @@
 
 <h2>🎉 Demo / Screenshots</h2>
 
-<p align="center">
+<figure align="center">
   <img src="demo/server-js-running.png" alt="server.js running" width="400">
-</p>
+  <figcaption>server.js running</figcaption>
+</figure>
 
-<p align="center">
-  <video width="600" controls>
-    <source src="demo/live-server-running.mp4" type="video/mp4">
-  </video>
-</p>
+<figure align="center">
+  <img src="demo/live-server-running.gif" alt="live server running" width="600">
+  <figcaption>live server running</figcaption>
+</figure>
 
-<p align="center">
+<figure align="center">
   <img src="demo/suggesting-moves.png" alt="suggesting moves" width="400">
-</p>
+  <figcaption>suggesting moves</figcaption>
+</figure>
+
 
